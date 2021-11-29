@@ -11,8 +11,8 @@ setup(
     author="Caros Garcia Garcia",
     author_email = "tigrecarlos1@gmail.com",
     # REPOSITORIO GIT
-    url = "",
-    download_url='',
+    url = "https://github.com/CarlosGr10/ForYou.git",
+    download_url='https://github.com/CarlosGr10/ForYou.git/tarball/01',
     kwargs = ['love','crush','ForYou'],
     license='MIT',
     packages=["Modulo_love"],
